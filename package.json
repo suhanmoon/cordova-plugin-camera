@@ -7,10 +7,7 @@
     "id": "cordova-plugin-camera",
     "platforms": [
       "android",
-      "ios",
-      "browser",
-      "windows",
-      "osx"
+      "ios"
     ]
   },
   "repository": {
@@ -25,10 +22,7 @@
     "camera",
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios",
-    "cordova-browser",
-    "cordova-windows",
-    "cordova-osx"
+    "cordova-ios"
   ],
   "scripts": {
     "precommit": "npm run gen-docs && git add README.md",
